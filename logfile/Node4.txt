@@ -1,4 +1,0 @@
- System is Down!!!
-    Time : 725
-    Threshold : 1.0
-    Performance Rate : 0.8449844
