@@ -1,16 +1,15 @@
 # Simulator for Web Load Balancer
-대학 4학년 시험
+2001년에 작성한 프로그램.
 
 # Build & Run
-build 하기
+build
 ```bash
 javac Simulator.java
 ```
-실행하기
+run
 ```bash
 java Simulator
 ```
-
 
 # Screenshot
 ![screenshot](screenshot.png)
